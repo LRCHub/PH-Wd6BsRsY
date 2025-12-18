@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Fun! Fun! Fun!",
+  "base_artist": "新浜レオン",
+  "createdAt": "2025-12-18T11:13:30.473098Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Fun, Fun, Fun",
+      "artist": "Wilson Phillips",
+      "has_synced": false,
+      "path": "select/01_Fun,_Fun,_Fun_Wilson_Phillips.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Fun, Fun, Fun",
+      "artist": "Pharrell Williams",
+      "has_synced": true,
+      "path": "select/02_Fun,_Fun,_Fun_Pharrell_Williams.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Fun, Fun, Fun",
+      "artist": "The Beach Boys feat. Royal Philharmonic Orchestra",
+      "has_synced": true,
+      "path": "select/03_Fun,_Fun,_Fun_The_Beach_Boys_feat._Royal_Philharmonic_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fun, Fun, Fun",
+      "artist": "The Beach Boys, Royal Philharmonic Orchestra",
+      "has_synced": true,
+      "path": "select/04_Fun,_Fun,_Fun_The_Beach_Boys,_Royal_Philharmonic_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Fun, Fun, Fun (Mono)",
+      "artist": "The Beach Boys",
+      "has_synced": true,
+      "path": "select/05_Fun,_Fun,_Fun_(Mono)_The_Beach_Boys.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fun, Fun, Fun",
+      "artist": "The Beach Boys",
+      "has_synced": true,
+      "path": "select/06_Fun,_Fun,_Fun_The_Beach_Boys.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Fun, Fun, Fun",
+      "artist": "Carpenters",
+      "has_synced": true,
+      "path": "select/07_Fun,_Fun,_Fun_Carpenters.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Fun Fun Fun",
+      "artist": "Status Quo feat. The Beach Boys",
+      "has_synced": false,
+      "path": "select/08_Fun_Fun_Fun_Status_Quo_feat._The_Beach_Boys.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Fun, Fun, Fun",
+      "artist": "Joan Jett & The Blackhearts",
+      "has_synced": true,
+      "path": "select/09_Fun,_Fun,_Fun_Joan_Jett_&_The_Blackhearts.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Fun, Fun, Fun",
+      "artist": "The Beach Boys",
+      "has_synced": true,
+      "path": "select/10_Fun,_Fun,_Fun_The_Beach_Boys.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Fun, Fun, Fun",
+      "artist": "Caleigh Peters",
+      "has_synced": true,
+      "path": "select/11_Fun,_Fun,_Fun_Caleigh_Peters.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Fun, Fun, Fun",
+      "artist": "The Beach Boys",
+      "has_synced": false,
+      "path": "select/12_Fun,_Fun,_Fun_The_Beach_Boys.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Fun! Fun! Fun!",
+      "artist": "新浜レオン",
+      "has_synced": false,
+      "path": "select/pl_01_Fun!_Fun!_Fun!_新浜レオン.txt"
+    }
+  ]
+}
